@@ -49,8 +49,9 @@ ul li a:hover {
 .b2 {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    text-align: center;
+    margin-left: 30px;
+    justify-content: center;
+    text-align: justify;
 }
 
 .b3 {
@@ -59,4 +60,11 @@ ul li a:hover {
 
 .dd {
     width: 30%;
+    text-indent:2em;
+}
+
+.dd p {
+    width: 90%;
+    margin-left: 26px;
+    text-align: justify-all;
 }

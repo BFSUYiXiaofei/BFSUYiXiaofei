@@ -50,23 +50,21 @@ ul li a:hover {
 
 .ee {
     width: 30%;
-
+    text-indent:2em;
 }
 
 .ee p {
     width: 90%;
-    margin-left: 30px
+    margin-left: 20px;
+    text-align: justify-all;
 }
 
 .b2 {
     display: flex;
-
-    margin-left: 30px;
     justify-content: center;
 }
 
 .b3 {
-
     display: flex;
 }
 
