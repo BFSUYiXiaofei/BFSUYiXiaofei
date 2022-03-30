@@ -51,12 +51,14 @@ ul li a:hover {
 .ee {
     width: 30%;
     text-indent:2em;
+    text-align: justify;
+
 }
 
 .ee p {
     width: 90%;
-    margin-left: 20px;
-    text-align: justify-all;
+    /*text-align:center;*/
+    margin-left: 26px;
 }
 
 .b2 {
